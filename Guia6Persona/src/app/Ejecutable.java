@@ -33,7 +33,7 @@ public class Ejecutable {
 			altura = scan.nextDouble();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			System.out.println("Mete bien los numberos NENEEEEE");
+			System.out.println("Atura errónea");
 		}
 		// HACER EXCEPCION PARA EL ERROR ESPECIFICO
 
